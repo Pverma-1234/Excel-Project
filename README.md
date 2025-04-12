@@ -48,5 +48,5 @@ Dynamic Named Ranges
 🔹 Startups & SMBs: Use Excel’s native capabilities for real-time dashboarding — no need for costly BI tools
 
 📸 Dashboard Preview
-https://github.com/Pverma-1234/Excel-Project/commit/6cdae4279df5ebe1c54f297f557062d707420b2f
+![image alt] (https://github.com/Pverma-1234/Excel-Project/commit/6cdae4279df5ebe1c54f297f557062d707420b2f)
 
